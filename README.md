@@ -2,7 +2,7 @@
 Project for my Software for Embedded Systems course at IST.
 
 ### Objectives
-Building Intelligent public lighting for smart cities using Arduino.
+Intelligent public lighting for smart cities using Arduino.
 
 #### Language
 C++
