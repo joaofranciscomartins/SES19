@@ -1,4 +1,4 @@
-# SES19
+# Software for Embedded Systems 18/19
 Project for my Software for Embedded Systems course at IST.
 
 ### Objectives
